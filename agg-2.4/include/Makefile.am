@@ -19,7 +19,7 @@ agginclude_HEADERS = \
 	agg_conv_adaptor_vcgen.h     agg_pixfmt_rgb.h                agg_span_interpolator_persp.h \
 	agg_conv_adaptor_vpgen.h     agg_pixfmt_rgb_packed.h         agg_span_interpolator_trans.h \
 	agg_conv_bspline.h           agg_pixfmt_rgba.h               agg_pixfmt_transposer.h \
-	agg_span_pattern_gray.h \
+	agg_span_pattern_gray.h      agg_rasterizer_scanline_aa_nogamma.h \
 	agg_conv_clip_polygon.h      agg_rasterizer_cells_aa.h       agg_span_pattern_rgb.h \
 	agg_conv_clip_polyline.h     agg_rasterizer_compound_aa.h    agg_span_pattern_rgba.h \
 	agg_conv_close_polygon.h     agg_rasterizer_outline.h        agg_span_solid.h \

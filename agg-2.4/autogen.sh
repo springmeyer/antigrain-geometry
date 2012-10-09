@@ -18,6 +18,6 @@ libtoolize --force
 automake --foreign --add-missing --ignore-deps
 
 # and finally invoke our new configure
-./configure $*
+# ./configure $*
 
 # end
